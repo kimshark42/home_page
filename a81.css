@@ -1,0 +1,22 @@
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: darkblue;
+}
+
+#login_box{
+    width: 300px;
+    height: 200px;
+    background-color: pink;
+    border: blue 1px dashed;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
+#btn {
+    box-shadow: 1px 1px 1px;
+}
